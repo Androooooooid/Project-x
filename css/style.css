@@ -1,0 +1,168 @@
+* 
+{
+    margin: 0;
+    padding: 0;
+}
+
+.navigation {
+    display: inline-block;
+}
+
+body {
+    background: url(../image/hero.jpg) no-repeat;
+    background-position-x: center;
+    background-position-y: top;
+}
+
+.content-header-headleft-center{
+    margin: 0 auto;
+}
+.content-header-headleft {
+    width: 140px;
+    height: 73px;
+    float: left;
+    margin-left: 25%;   
+    padding-top: 44px;
+    background-color: #fa5c65;
+    display: flex;
+    border-radius: 0px 0px 10px 10px;
+    font-weight: bold;
+    color:white;
+}
+
+.color {
+    color:black;
+}
+
+.content-header-headright {
+    width: 1370;
+    height: 45px;
+    text-align: right;
+    margin-right: 25%;
+    padding-top: 30px;
+}
+
+.navigation>li {
+    display: inline-block;
+    list-style: none;
+    margin-right: 10px;
+}
+
+.content-slogan-text {
+    width: 512px;
+    height: 194px;
+    margin-left: 25%;   
+    margin-top: 307px;
+}
+
+.colorb {
+    color:#fa5c65;
+}
+
+.content-slogan-button {
+    margin-left: 25%;
+    width: 171px;
+    height: 64px;
+    background-color: #fa5c65;
+    border-radius: 10px 10px 10px 10px;
+    font-weight: bold;
+    display: flex;
+    padding-top: 20px;
+    color:white;
+}
+
+.content-blocks-snippets {
+    display: inline-block;
+    width: 320px;
+    height: 170px;
+}
+
+#content-blocks-snippets {
+    margin-left: 25%;
+    margin-top: 470px;
+}
+
+.content-blocks-snippets-red {
+    color: #fa5c65;
+    font-weight: bold;
+}
+
+.content-portfolio {
+    
+}
+
+#content-portfolio-mac {
+    display: inline-block;
+    height: 295px;
+    margin-top: 100px;
+}
+
+.content-portfolio-macbook {
+    width: 480px;
+    height: 295px;
+    margin-left: 25%;
+}
+
+.content-portfolio-titletext {
+    float: right;
+    width: 480px;
+    height: 295px;
+    margin-right: 22%;
+}
+
+.content-team-ourteam {
+    margin-left: 25%;
+    margin-top: 105px;
+    
+}
+
+.grey {
+    color: #b0b2b5;
+}
+
+.content-team-block {
+    display: inline-flex;
+    margin-top: 40px;   
+    margin-left: 25%;
+}
+
+.content-team-block-human {
+    display: inline-flex;
+}
+
+#content-team-block-human {
+    margin-left: 40px;
+}
+
+.content-team-block-human-image {
+    width: 120px;
+    height: 120px;
+}
+
+#more {
+    float: right;
+    margin-right: 25%;
+    margin-top: 70px;   
+}
+
+.content-footer {
+    height: 100px;
+    width: 100%;
+    display: inline-block;
+}
+
+.content-footer-left {
+    margin-left: 25%;
+    margin-top: 130px;  
+}
+
+.content-footer-right {
+    float: right;
+    margin-right: 25%;
+}
+
+.footer-png {
+    width: 20px;
+    height: 20px;
+    margin-left: 20px;
+}
